@@ -12,7 +12,7 @@ let xRaqueteOponente = 585;
 let yRaqueteOponente = 150;
 let colidiu = false;
 
-let.let trilha;
+let trilha;
 function preload (){
  trilha = loadSound ("trilha.mp3")
   
